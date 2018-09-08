@@ -4,6 +4,6 @@ Este cookbook visa a configuracao do usuário `ctouser` e inclusão do mesmo no 
 
 **username:** ctouser
 
-**passwork:** labfiap123
+**password:** labfiap123
 
 * Obs: A senha se encontra criptografada no código.
