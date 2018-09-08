@@ -1,5 +1,7 @@
-# SSH Cookbook
+# Apache Cookbook
 
-  Este cookbook visa a configuracao do ssh server tendo como variável a porta do serviço, caso o valor não seja alterado o serviço está escultando na porta `4098`.
+  Este cookbook visa a configuracao do apache na porta 80 e a configuração de 3 virtual hosts baseadas em nome (todos os sites respondem no mesmo IP e porta). 
   
-  Caso deseje alterar a porta o arquivo o arquivo de atributos localizado em: **attributes/attributes.rb**
+  Para facilitar a admminstração foram criados templates para os virtual hosts e para as home pages.
+  
+  Caso deseje alterar alguma variável o arquivo de atributos está localizado em: **attributes/attributes.rb**
