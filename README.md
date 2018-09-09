@@ -34,11 +34,11 @@ Caso o S.O. seja `Windows` alterar o arquivo `C:\Windows\System32\drivers\etc\ho
 
 Caso o S.O. seja `Linux` alterar o arquivo `/etc/hosts` com o conteúdo abaixo fazendo as devidas alterações.
 
-`**ip_publico**  www.development.com www.homologation.com www.production.com`
+`ip_publico  www.development.com www.homologation.com www.production.com`
 
 **Exemplo**
 
-`192.168.8.145	www.development.com www.homologation.com www.production.com`
+`201.27.127.220	www.development.com www.homologation.com www.production.com`
 
 
 Ambiente de teste
